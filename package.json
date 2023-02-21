@@ -1,0 +1,22 @@
+{
+  "name": "unicorn",
+  "version": "1.0.0",
+  "description": "unicorn with scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeeleshJaiswal/unicorn_scss.git"
+  },
+  "keywords": [
+    "unicorn"
+  ],
+  "author": "Neelesh Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeeleshJaiswal/unicorn_scss/issues"
+  },
+  "homepage": "https://github.com/NeeleshJaiswal/unicorn_scss#readme"
+}
